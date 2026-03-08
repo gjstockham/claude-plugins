@@ -18,7 +18,7 @@ Then install individual plugins:
 
 | Plugin | Description |
 |--------|-------------|
-| *(none yet)* | |
+| [lyrics-analyzer](./plugins/lyrics-analyzer/) | Analyse song lyrics for themes and literary craft, or extract an abstract style recipe to guide songwriting. |
 
 ## Structure
 

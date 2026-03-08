@@ -9,5 +9,16 @@
     "version": "1.0.0",
     "pluginRoot": "./plugins"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "lyrics-analyzer",
+      "source": "./plugins/lyrics-analyzer",
+      "description": "Analyse song lyrics for themes and literary craft, or extract an abstract style recipe to guide songwriting.",
+      "version": "1.0.0",
+      "author": { "name": "Geoff Stockham", "email": "geoff@stormid.com" },
+      "license": "MIT",
+      "keywords": ["lyrics", "music", "analysis", "songwriting", "literary-analysis"],
+      "category": "productivity"
+    }
+  ]
 }
