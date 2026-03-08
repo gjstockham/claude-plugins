@@ -1,0 +1,13 @@
+{
+  "name": "gjstockham-plugins",
+  "owner": {
+    "name": "Geoff Stockham",
+    "email": "geoff@stormid.com"
+  },
+  "metadata": {
+    "description": "An eclectic mix of skills, agents and commands for Claude Code and CoWork",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": []
+}
