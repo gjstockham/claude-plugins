@@ -1,0 +1,6 @@
+{
+  "name": "lyrics-creator",
+  "version": "1.0.0",
+  "description": "Write original song lyrics with anti-cliché constraints, review them with structured critique, and iterate through a revise cycle.",
+  "skills": "./skills/"
+}

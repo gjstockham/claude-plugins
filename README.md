@@ -19,6 +19,7 @@ Then install individual plugins:
 | Plugin | Description |
 |--------|-------------|
 | [lyrics-analyzer](./plugins/lyrics-analyzer/) | Analyse song lyrics for themes and literary craft, or extract an abstract style recipe to guide songwriting. |
+| [lyrics-creator](./plugins/lyrics-creator/) | Write original song lyrics with anti-cliché constraints, review with structured critique, and iterate through a create-review-revise cycle. |
 
 ## Structure
 

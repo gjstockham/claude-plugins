@@ -19,6 +19,16 @@
       "license": "MIT",
       "keywords": ["lyrics", "music", "analysis", "songwriting", "literary-analysis"],
       "category": "productivity"
+    },
+    {
+      "name": "lyrics-creator",
+      "source": "./plugins/lyrics-creator",
+      "description": "Write original song lyrics with anti-AI-cliché constraints, review them with structured critique, and iterate through a create-review-revise cycle.",
+      "version": "1.0.0",
+      "author": { "name": "Geoff Stockham", "email": "geoff@stormid.com" },
+      "license": "MIT",
+      "keywords": ["lyrics", "songwriting", "creative-writing", "music", "critique"],
+      "category": "productivity"
     }
   ]
 }
