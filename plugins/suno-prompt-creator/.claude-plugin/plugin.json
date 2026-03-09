@@ -1,0 +1,6 @@
+{
+  "name": "suno-prompt-creator",
+  "version": "1.0.0",
+  "description": "Turn song lyrics into Suno AI music prompts — formatted lyric block with meta tags, a crafted style prompt, and recommended advanced parameters.",
+  "skills": "./skills/"
+}
