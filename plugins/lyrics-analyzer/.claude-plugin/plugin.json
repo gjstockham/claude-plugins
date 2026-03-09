@@ -2,6 +2,5 @@
   "name": "lyrics-analyzer",
   "version": "1.0.0",
   "description": "Analyse song lyrics for themes and literary craft, or extract an abstract style recipe to guide songwriting.",
-  "skills": "./skills/",
-  "agents": "./agents/"
+  "skills": "./skills/"
 }

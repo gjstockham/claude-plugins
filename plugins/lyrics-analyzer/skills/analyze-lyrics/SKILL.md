@@ -7,7 +7,7 @@ description: >
   or wants to understand what a song means or how it is constructed.
 argument-hint: "[song title] by [artist]"
 user-invocable: true
-allowed-tools: Agent
+allowed-tools: WebSearch, WebFetch
 context: fork
 ---
 
@@ -20,11 +20,18 @@ If $ARGUMENTS does not clearly contain both a song title and an artist name, sto
 
 ## Step 2 — Retrieve lyrics
 
-Use the Agent tool to invoke the "lyrics-search" agent with the following prompt:
-"Find the complete lyrics for $ARGUMENTS."
+Search the web for the complete lyrics.
 
-If the agent responds with a message beginning with `LYRICS_NOT_FOUND:`, stop and report to the user:
-"Sorry, I could not find lyrics for '$ARGUMENTS'. [reason from agent]. Please check the song title and artist name and try again."
+1. Use WebSearch with a query like: `"[song title]" "[artist]" lyrics`
+   Try a second query (`[song title] [artist] full lyrics`) if the first doesn't return a reliable lyrics page.
+2. Prefer well-known sources: Genius, AZLyrics, Lyrics.com, MetroLyrics, or the artist's official site.
+3. Use WebFetch to retrieve the lyrics page. Extract only the lyrics — discard ads, navigation, and surrounding prose.
+4. Preserve verse/chorus labels and line breaks as they appear.
+
+If you cannot find lyrics after two distinct search attempts, stop and tell the user:
+"Sorry, I could not find lyrics for '$ARGUMENTS'. Please check the song title and artist name and try again."
+
+Never fabricate or reconstruct lyrics from memory — only use lyrics retrieved live.
 
 ## Step 3 — Analyse the lyrics
 
