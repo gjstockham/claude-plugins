@@ -114,6 +114,16 @@ Only `name` is required. If omitted entirely, Claude Code auto-discovers compone
 }
 ```
 
+## Version Bumping
+
+When modifying any files inside `plugins/<plugin-name>/`, bump the plugin's `version` field in `.claude-plugin/marketplace.json` using semver:
+
+- **Patch** (`1.0.0` → `1.0.1`): fixes, wording tweaks, consistency changes
+- **Minor** (`1.0.0` → `1.1.0`): new skills, agents, commands, or hooks added
+- **Major** (`1.0.0` → `2.0.0`): breaking changes (renamed/removed skills or commands)
+
+Do this as part of the same commit as the changes. Never commit plugin changes without a version bump.
+
 ## Claude Code vs CoWork
 
 Both use the same file format. The marketplace is public GitHub, which Claude Code CLI supports directly. CoWork only supports private GitHub or ZIP upload — keep that in mind if building CoWork-specific plugins.
