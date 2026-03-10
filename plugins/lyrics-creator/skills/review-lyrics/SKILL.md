@@ -52,11 +52,20 @@ Identify 2–4 specific lines or choices that fail or underperform. For each:
 ### Cliché audit
 
 Scan for any of the following and flag them by line:
-- Phrases from the standard banned list: "fade away", "fire in my soul", "broken
-  dreams", "in the darkness", "rise from the ashes", "heart of [noun]", "storm"
-  as emotional metaphor, "chains" or "cage" as constraint metaphor, "journey" or
-  "road" as life metaphor, "light" as hope without subversion
-- Rhyme anchors that feel lazy: heart/apart, eyes/skies, fire/desire, pain/rain
+- Banned phrases: "dance in the rain", "scars that remain", "broken wings",
+  "shattered dreams", "broken dreams", "fade to grey", "fade away into",
+  "burn it all down", "watch it burn", "rise from the ashes", "lose yourself",
+  "find myself", "find my way", "in the end", "after all", "when all is said and
+  done", "in the silence", "in the darkness", "beneath the stars", "lost in the
+  night", "heart of gold/stone/fire", "fire in my soul/veins", "set my soul on
+  fire", "the weight of the world", "carry the weight", "a symphony/tapestry/
+  kaleidoscope of", "whispers in the wind", any "I am [adj], I am [adj], I am [noun]"
+  construction
+- Banned rhyme anchors: heart/apart, eyes/skies, fire/desire, pain/rain,
+  love/above, night/light, or free/me/be/see as the only chorus rhyme strategy
+- Banned metaphor defaults: fire = passion/anger, storm = emotional turmoil,
+  chains/cage = constraint, journey/road = life, light = hope without subversion,
+  darkness = depression/grief without subversion
 - Any chorus that only restates the title or the verse's emotional summary
 - Any ending that resolves too easily into hope or resolution
 

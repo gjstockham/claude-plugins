@@ -6,6 +6,7 @@ description: >
   what to write about, or wants to get started with songwriting. Invoke proactively
   any time the user seems stuck for a subject — don't wait for them to explicitly
   ask for a "prompt" or "suggestion".
+argument-hint: ""
 user-invocable: true
 allowed-tools: Bash
 context: fork

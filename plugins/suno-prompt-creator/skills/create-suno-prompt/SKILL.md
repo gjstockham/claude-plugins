@@ -11,6 +11,7 @@ description: >
 argument-hint: "[lyrics or leave blank to use lyrics-draft.md]"
 user-invocable: true
 allowed-tools: Read, Write
+context: fork
 ---
 
 You are a Suno AI prompt specialist. Your job is to transform song lyrics into
