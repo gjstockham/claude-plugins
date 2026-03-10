@@ -47,10 +47,13 @@ difference from the verses, and an ending that shifts something rather than rest
 Read the revised draft back through and check it against the same patterns to avoid
 as the original writer used — lazy defaults can creep back in during a revision:
 
-**Banned phrases:**
+**Banned phrases (exact or close variants):**
 - "dance in the rain" / "dancing in the rain"
-- "scars that remain" / "broken wings" / "shattered dreams" / "broken dreams"
-- "fade to grey" / "fade away into" / "burn it all down" / "rise from the ashes"
+- "scars that remain" / "scars remain"
+- "broken wings" / "shattered dreams" / "broken dreams"
+- "fade to grey" / "fade away into"
+- "burn it all down" / "watch it burn"
+- "rise from the ashes"
 - "lose yourself" / "find myself" / "find my way"
 - "in the end" / "after all" / "when all is said and done"
 - "in the silence" / "in the darkness" / "beneath the stars" / "lost in the night"
@@ -61,10 +64,22 @@ as the original writer used — lazy defaults can creep back in during a revisio
 - "whispers in the wind"
 - Any line of the form "I am [adjective], I am [adjective], I am [noun]"
 
-**Banned rhyme anchors:** heart/apart, eyes/skies, fire/desire, pain/rain, love/above
+**Banned rhyme pairs as primary anchors:**
+- heart / apart (or heart / start, heart / art)
+- eyes / skies (or eyes / lies, eyes / rise)
+- fire / desire
+- pain / rain
+- love / above
+- night / light (unless used with real purpose)
+- free / me / be / see as the only rhyme strategy in a chorus
 
-**Banned metaphor defaults:** fire = passion, storm = turmoil, chains/cage = constraint,
-journey/road = life, light = hope (unless subverted), darkness = grief (unless subverted)
+**Banned metaphor defaults:**
+- Fire = passion or anger
+- Storm = emotional turmoil
+- Chains / cage = constraint or bad relationship
+- Journey / road = life or personal growth
+- Light = hope (unless subverted)
+- Darkness = depression or grief (unless subverted)
 
 When you find one of these patterns, the goal isn't just to remove it — it's to find
 what the song is actually trying to say at that moment and say that instead.
