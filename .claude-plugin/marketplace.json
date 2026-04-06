@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "An eclectic mix of skills, agents and commands for Claude Code and CoWork",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "pluginRoot": "./plugins"
   },
   "plugins": [
@@ -17,7 +17,13 @@
       "version": "1.0.0",
       "author": { "name": "Geoff Stockham", "email": "geoff@stormid.com" },
       "license": "MIT",
-      "keywords": ["lyrics", "music", "analysis", "songwriting", "literary-analysis"],
+      "keywords": [
+        "lyrics",
+        "music",
+        "analysis",
+        "songwriting",
+        "literary-analysis"
+      ],
       "category": "productivity"
     },
     {
@@ -27,7 +33,13 @@
       "version": "1.0.1",
       "author": { "name": "Geoff Stockham", "email": "geoff@stormid.com" },
       "license": "MIT",
-      "keywords": ["lyrics", "songwriting", "creative-writing", "music", "critique"],
+      "keywords": [
+        "lyrics",
+        "songwriting",
+        "creative-writing",
+        "music",
+        "critique"
+      ],
       "category": "productivity"
     },
     {
@@ -37,7 +49,13 @@
       "version": "1.1.0",
       "author": { "name": "Geoff Stockham", "email": "geoff@stormid.com" },
       "license": "MIT",
-      "keywords": ["watercolor", "watercolour", "painting", "art", "image-analysis"],
+      "keywords": [
+        "watercolor",
+        "watercolour",
+        "painting",
+        "art",
+        "image-analysis"
+      ],
       "category": "creative"
     },
     {
@@ -47,7 +65,14 @@
       "version": "1.0.1",
       "author": { "name": "Geoff Stockham", "email": "geoff@stormid.com" },
       "license": "MIT",
-      "keywords": ["suno", "music", "ai-music", "lyrics", "prompt", "songwriting"],
+      "keywords": [
+        "suno",
+        "music",
+        "ai-music",
+        "lyrics",
+        "prompt",
+        "songwriting"
+      ],
       "category": "productivity"
     }
   ]
