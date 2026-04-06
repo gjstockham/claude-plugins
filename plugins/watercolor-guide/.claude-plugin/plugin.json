@@ -1,6 +1,6 @@
 {
   "name": "watercolor-guide",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Analyse any image and receive a step-by-step watercolor painting guide — composition, tonal plan, palette, and every technique in the order they are applied.",
   "skills": "./skills/"
 }

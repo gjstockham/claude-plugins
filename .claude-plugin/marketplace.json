@@ -33,8 +33,8 @@
     {
       "name": "watercolor-guide",
       "source": "./plugins/watercolor-guide",
-      "description": "Analyse any image and receive a step-by-step watercolor painting guide — composition, tonal plan, palette, and every technique in the order they are applied.",
-      "version": "1.0.0",
+      "description": "Analyse any image and receive a watercolor painting guide in four sections — Overview, Composition, Palette & Colour, and Step-by-Step — so you can jump directly to the section you need while working.",
+      "version": "1.1.0",
       "author": { "name": "Geoff Stockham", "email": "geoff@stormid.com" },
       "license": "MIT",
       "keywords": ["watercolor", "watercolour", "painting", "art", "image-analysis"],
