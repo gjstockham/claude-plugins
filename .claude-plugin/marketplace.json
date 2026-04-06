@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "An eclectic mix of skills, agents and commands for Claude Code and CoWork",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "pluginRoot": "./plugins"
   },
   "plugins": [
@@ -52,6 +52,21 @@
       "keywords": [
         "watercolor",
         "watercolour",
+        "painting",
+        "art",
+        "image-analysis"
+      ],
+      "category": "creative"
+    },
+    {
+      "name": "acrylic-guide",
+      "source": "./plugins/acrylic-guide",
+      "description": "Analyse any image and receive an acrylic painting guide in four sections — Overview, Composition, Palette & Colour, and Step-by-Step — so you can jump directly to the section you need while working.",
+      "version": "1.0.0",
+      "author": { "name": "Geoff Stockham", "email": "geoff@stormid.com" },
+      "license": "MIT",
+      "keywords": [
+        "acrylic",
         "painting",
         "art",
         "image-analysis"
