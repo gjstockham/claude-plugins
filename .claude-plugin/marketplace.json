@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "An eclectic mix of skills, agents and commands for Claude Code and CoWork",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "pluginRoot": "./plugins"
   },
   "plugins": [
@@ -70,6 +70,23 @@
         "painting",
         "art",
         "image-analysis"
+      ],
+      "category": "creative"
+    },
+    {
+      "name": "terrain-painting-guide",
+      "source": "./plugins/terrain-painting-guide",
+      "description": "Analyse a photo or description of a tabletop terrain piece and receive a painting guide in four sections — Overview, Colour Plan, Palette & Colours, and Step-by-Step — covering priming, base coating, washing, drybrushing, detailing, and basing.",
+      "version": "1.0.0",
+      "author": { "name": "Geoff Stockham", "email": "geoff@stormid.com" },
+      "license": "MIT",
+      "keywords": [
+        "terrain",
+        "miniatures",
+        "tabletop",
+        "painting",
+        "dnd",
+        "wargaming"
       ],
       "category": "creative"
     },

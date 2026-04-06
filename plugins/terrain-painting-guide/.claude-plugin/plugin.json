@@ -1,0 +1,6 @@
+{
+  "name": "terrain-painting-guide",
+  "version": "1.0.0",
+  "description": "Analyse a photo or description of a tabletop terrain piece and receive a step-by-step painting guide — colour plan, palette with generic colour descriptions, and every technique in the order they are applied.",
+  "skills": "./skills/"
+}
